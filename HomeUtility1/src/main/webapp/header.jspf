@@ -1,0 +1,12 @@
+ 
+        <hr>
+        <p>
+     <h3>Welcome Admin  </h3>
+     <hr>
+     
+     <p>
+
+<a href="admincategory.jsp">Category Entry</a>
+<a href="admincategoryview.jsp">View Category </a>
+<a href="adminperson.jsp">Person Entry</a>
+<a href="login.jsp">Sign Out</a>
